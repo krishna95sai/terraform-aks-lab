@@ -1,4 +1,3 @@
-```hcl
 variable "cluster_name" {
 description = "The name of the AKS cluster"
 type = string
@@ -33,4 +32,3 @@ variable "vm_size" {
 description = "The size of the Virtual Machines to use for nodes"
 type = string
 }
-```
