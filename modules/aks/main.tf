@@ -1,4 +1,3 @@
-```hcl
 provider "azurerm" {
 features {}
 }
@@ -19,4 +18,3 @@ identity {
 type = "SystemAssigned"
 }
 }
-```
