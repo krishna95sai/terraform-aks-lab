@@ -1,4 +1,3 @@
-```hcl
 variable "cluster_name" {
 default = "dev-aks-cluster"
 }
@@ -26,4 +25,3 @@ default = 2
 variable "vm_size" {
 default = "Standard_DS2_v2"
 }
-```
